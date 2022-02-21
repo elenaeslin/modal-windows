@@ -1,1 +1,1 @@
-# modal-windows
+# Modal Windows
