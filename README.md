@@ -7,3 +7,5 @@ Basic JavaScript aspects implemented:
 - Click event listener
 - Adding and removing a class to an element from JS
 - Listening to event from a keypress event
+
+Check the web format: https://elenaeslin.github.io/modal-windows/
